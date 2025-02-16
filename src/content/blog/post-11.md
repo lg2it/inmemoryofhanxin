@@ -1,72 +1,25 @@
 ---
-title: The Ultimate Front-End Developer Career Roadmap
-excerpt: Are you interested in embarking on a rewarding career as a front-end developer or looking to advance your existing skills in this dynamic field?
-publishDate: 'Dec 15 2023'
+title: 自新：冒险者的临别祝词
+excerpt: 生活的封闭与习惯使人们感到迷茫与困惑，面对创作者与接受者的关系，进步与痛苦交织，冒险者在追求自由与突破的过程中，勇敢地面对未知的深海。
+publishDate: 'Jun 9, 2023'
 tags:
-  - Web
-  - Guide
-seo:
-  image:
-    src: '/post-11.jpg'
-    alt: Empty road into the Horizon
+  - 生命漂流记
 ---
 
-![Empty road into the Horizon](/post-11.jpg)
+与旧灵魂割席分坐终归困难，但背井离乡、栉风沐雨则难上加难：不是甚么责任感与未来规划的顿悟式成长，而是对局限之现状的反抗，落地生根。
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+秩序的钢筋与习性的混凝土，共同构筑起生活的封闭楼阁，窗外是无边的海水，漫漫的海潮与风雨。生活其中的人们，有的焦头烂额，有的庸庸碌碌，或许偶尔有了些微调，又或突破，时日久了，便又单调地重复，也重复得单调。
 
-Are you interested in embarking on a rewarding career as a front-end developer or looking to advance your existing skills in this dynamic field? Front-end development is an exciting and ever-evolving realm of the tech industry, and to succeed, having a well-defined roadmap can make all the difference. In this post, we'll provide you with "The Ultimate Front-End Developer Career Roadmap" to guide you through the journey from a beginner to an expert.
+生活的砖瓦楼阁，是已知的安全区、习惯的栖息地，是偏好的舒适区、竞争的优势面，也是茧，作茧自缚的茧——破不出茧的，仍旧蝼蚁般舒适地蠕动，而破茧成蝶的，却疲倦地振翅飞翔。生产者与创作者，只需不费吹灰之力的微调，便可取之不尽、用之不竭地创造物质财富或精神财富，而后便可歆享亲朋邻友之艳羡、信徒拥趸之狂热、行内业外之尊崇，但这也预示着——历经成千上万次同质化微调后，风格与作者一同被埋葬在过去——江郎才尽的坟墓。
 
-## Stage 1: Getting Started
+而对于接受者来说，要么囚在创作者修建的偏爱庙宇中，庸俗地日行朝拜，要么将氧化腐朽的砖瓦埋入记忆，束之高阁，又或者，发出伤仲永的悲悯与恨铁不成钢的哀叹，墙倒众人推。重复而机械的体力劳动，而今成为大同小异的脑力劳动，即便穷尽山巅，也不过只走完了若干繁杂纷芜的岔道之一，而后守成。到了十字路口，面对车水马龙，茫然无措地原地踟蹰，又或许人情练达地雇佣车马，但终归自己是没有走过这些路的。
 
-**Learn HTML, CSS, and Basic JavaScript:** Begin your journey by mastering the fundamentals. Understand how HTML, CSS, and JavaScript work together to create web pages.
+当数据与算法构成的智能后来居上，冲击创作者穷尽一生探寻的茫茫道路时，人类之共同体，法律之著作权，尊严之不可替……一切人情的、法制的文书都被拿起，蚍蜉撼树般地誓死捍卫那日渐狭小的生存空间。或许在更早的时候，臧无尤以戏谑的解构式手法对音乐创作者进行批判时，创作者与狂热的拥趸，就已经开始这场神圣的自卫战争了。
 
-**Create Simple Websites:** Practice by building basic websites and web pages. Get comfortable with the structure and layout.
+但是，那些挡在路中央的，无论是走不出去的还是不愿走出的，都无情地被冰冷的时代碾过了。那些终日走在一条道上的人，自始至终也没有出去过，在失重的习性与焦虑之中，迷茫而陷入桎梏了。
 
-**Version Control:** Learn the basics of version control with Git and GitHub to track changes in your code.
+> 一个人并不是生来要被打败的——无论是解构的数字刀刃，还是结构的庞然大厦，解析不尽，也囚禁不住这无穷之存在——你尽可以消灭他，可就是打不败他。
+>
+> 进步近乎是痛苦的，而痛苦不必是进步的。而越是进步，进而也越知晓痛苦的存在，从而也就越明晰进步与痛苦单向箭头般的、不可收束的、不可逆的过程。但相对于奋起抗争和头破血流，踟蹰不前与坐以待毙更令人畏惧。
 
-**Responsive Web Design:** Understand the principles of responsive design to make your websites look great on all devices.
-
-## Stage 2: Building a Solid Foundation
-
-**Advanced JavaScript:** Dive deeper into JavaScript, learning about ES6 features, asynchronous programming, and the DOM (Document Object Model).
-
-**CSS Preprocessors:** Explore CSS preprocessors like SASS or LESS to streamline your stylesheets.
-
-**Learn a Front-End Framework:** Start with a framework like Tailwind CSS to enhance your website-building capabilities.
-
-**8. Web Performance:** Study web performance optimization techniques to ensure fast-loading websites.
-
-## Stage 3: Mastering Modern Front-End Technologies
-
-**JavaScript Frameworks:** Learn popular front-end frameworks like React, Angular, or Vue.js.
-
-**Build Single Page Applications (SPAs):** Create interactive web applications using your chosen framework.
-
-**Package Managers:** Get comfortable with package managers like npm and yarn to manage your project dependencies.
-
-**Module Bundlers:** Explore module bundlers like Webpack or Parcel for efficient code organization.
-
-## Stage 4: Specialization and Advanced Topics
-
-**Advanced CSS:** Dive deep into CSS with techniques like Flexbox, Grid, and CSS-in-JS.
-
-**Accessibility:** Ensure your websites are accessible to all users by learning WCAG guidelines.
-
-**Performance Optimization:** Continue improving performance with advanced techniques like lazy loading and code splitting.
-
-**Testing and Debugging:** Master unit testing and debugging tools for front-end development.
-
-## Stage 5: Real-World Experience and Career Advancement
-
-**Building Projects:** Create a portfolio of real-world projects to showcase your skills.
-
-**Networking:** Attend meetups, conferences, and online communities to connect with other front-end developers.
-
-**Soft Skills:** Hone your communication and collaboration skills, as they are invaluable in a professional setting.
-
-**Job Search:** Prepare a strong resume and online portfolio. Start applying for front-end development positions or freelance opportunities.
-
-**Continuous Learning:** Stay up-to-date with the latest front-end technologies and trends. Consider advanced topics like Progressive Web Apps (PWAs) and serverless architecture.
-
-Remember, the journey of a front-end developer is continuous. The field is always evolving, and staying curious and adaptable is key to your success. The ultimate career roadmap is not a one-size-fits-all guide, but it provides a clear path to help you navigate the world of front-end development. By following this roadmap and continuously learning and improving, you can build a rewarding and successful career in this dynamic field. Good luck on your journey!
+在突然从行走数十年之久的道路夺路而逃，奔向另一个岔道，撞碎楼阁的玻璃幕墙，跳入无尽的深海时，冒险者如是说道。是死是活，终归无人知晓，正如那凯旋归来，或者落荒而逃的家长里短。

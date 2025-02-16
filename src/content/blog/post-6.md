@@ -1,54 +1,83 @@
 ---
-title: 'The Evolution of Front-End Development: A Journey Through Time'
-excerpt: Choosing the right framework for your web project is a critical decision that can significantly impact the development process and the success of your project. With so many options available, it's essential to consider various factors before making a choice.
-publishDate: 'October 9 2023'
+title: 自寻：逃逸世界的引力
+excerpt: 在生命的漂流中，个体探索自我与世界的关系，面对孤独与内心的呼唤，最终在风雪中寻求存在的意义与归属。
+publishDate: 'May 24, 2023'
 tags:
-  - Web
-  - Guide
-seo:
-  image:
-    src: '/post-6.jpg'
-    alt: Walking person silhouette
+  - 生命漂流记
 ---
 
-![Walking person silhouette](/post-6.jpg)
+## 序言：生命漂游
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+> Dem wird befohlen, der sich nicht selber gehorchen kann.
+>
+> 不能听命于自己者，就要受命于他人。
+>
+> ——《查拉图斯特拉如是说》
 
-Front-end development has come a long way since the early days of the World Wide Web. From static HTML pages to dynamic and interactive web applications, the evolution of front-end development has been nothing short of remarkable. In this post, we'll take a fascinating journey through time to explore how front-end development has evolved over the years.
+人之一生，终归在认知之路上踽踽独行——认识世界，认识社会，认识自我。不自觉在世界降生的生灵，在认识世界与认识社会的路上行走了十八个年岁，直至弱冠成人。
 
-## The Static HTML Era (1990s - Early 2000s)
+可是，终其一生，有的人虽不断开拓社会的康庄大道，却忘记了自己所独有的羊肠小道。而对于经受成人礼的独立个体来说，所需要的不再是世界给出的标准答案，而是自我找到的蛛丝马迹。
 
-In the early days of the web, front-end development primarily involved creating static HTML pages. These pages were simple, text-heavy, and often lacked the visual and interactive elements we take for granted today. Cascading Style Sheets (CSS) started to gain popularity during this era, allowing developers to style web pages and make them more visually appealing.
+在一无所依之中，自在漂流；在自在漂流之后，随遇而安。
 
-## The Rise of JavaScript (Late 1990s - Early 2000s)
+## 自寻：逃逸世界的引力
 
-JavaScript emerged as a powerful tool for adding interactivity to web pages. This era witnessed the birth of technologies like DHTML (Dynamic HTML), which allowed developers to create dynamic and animated web content. This marked the beginning of a more engaging web experience.
+> Welches ist der große Drache, den der Geist nicht mehr Herr und Gott heißen mag?
+>
+> 谁是那巨龙，精神不甘再称之以主之名或神之名？
+>
+> "Du-sollst" heißt der große Drache.
+>
+> 「你应当」是它的名姓。
+>
+> Aber der Geist des Löwen sagt "Ich will".
+>
+> 但雄狮之精神却说，「我欲行」。
+>
+> ——《查拉图斯特拉如是说》
 
-## The Era of Browser Wars (Late 1990s - Early 2000s)
+「我是谁？我从何而来，又将去向何方？」 维寒迪之外，世界的漂游者自问道。
 
-During this period, web developers faced challenges due to the "browser wars" between Internet Explorer and Netscape Navigator. Cross-browser compatibility became a significant concern, leading to the development of various JavaScript libraries and frameworks to help tackle these issues.
+「我是谁？我从何而来，又将去向何方？」 世界之外，维寒迪的漂游者呼应道。
 
-## The Web 2.0 Revolution (Mid-2000s)
+摩托疾驰而过，伴着咆哮的恣马穷追不舍，劫后余生的欣喜尚未冷却，惶恐的情绪却已然纷至沓来……这些，都过去着，都过去了。尽数抛去嘈杂的声音与芜杂的思绪，漫步于维寒迪的天寒地冻之中，冷落的雪纷扬落下，将他拥入怀中，此日，此时，只剩一个维寒迪，抑或只剩一个他。
 
-Web 2.0 brought about a shift in front-end development. Websites started to become more interactive and user-centric. Ajax (Asynchronous JavaScript and XML) became a key technology, enabling seamless data retrieval and updates without requiring full page reloads.
+凛冬的初阳划过林木的间隙投落车站的屋顶，久眠初醒的飞鸟扑向晨曦的怀抱，抖落几片昨日的冰雪和安眠的枯叶。西风侵袭，陈旧的门窗嘶哑地吟诵许旧时代的挽歌，弃置许久的车站暴露于缺乏庇护的危险之下，困守无人问津的苍凉，却也安放无人在意的温暖和无人打搅的宁静。
 
-## Responsive Web Design (2010s)
+年久残旧的火车奔波于旧时代与新时代的往来，在微茫灯光的延请下如约而至，携他在宁静与喧嚣、危险与安全之间漫游。他，丢下熟悉的武器，安坐在风烛残年的沙发之上，拾起寥寥的伤药，在偶尔邂逅的枪线与不止而过的时流中自我疗伤。在漫无边际的海流中，方寸的安全紧紧环抱住他的身体，迷茫的人登上了陌生的车，却也寻得了他的道路。呼啸而过的风雪，将他的生命一层一层地剥离，只留下干涸的血迹作为到来的证明，或远或近，他将在列车的驶动中沉沉安眠，不再醒来，远离他的战友，亦远离他的敌人。或许那时再无敌友，便只是与在维寒迪擦肩而过的陌生人挥手道别。他将死于孤独，也将胜于孤独。
 
-With the proliferation of smartphones and tablets, responsive web design became essential. Front-end developers had to adapt to building websites that could gracefully resize and restructure themselves to fit various screen sizes. This era saw the widespread use of CSS frameworks like Bootstrap and Foundation.
+列车驶过爱情小镇之时，他匆匆拾起一根树枝，在雪地上刻下他的一首诗：
 
-## The Era of JavaScript Frameworks (2010s - Present)
+> 长路奉献给远方， 玫瑰奉献给爱情
+>
+> 我拿什么奉献给你， 我的爱人
+>
+> 白云奉献给草场， 江河奉献给海洋
+>
+> 我拿什么奉献给你， 我的朋友
+>
+> 我拿什么奉献给你， 我不停的问
+>
+> 我不停的找， 不停的想
+>
+> 白鸽奉献给蓝天， 星光奉献给长夜
+>
+> 我拿什么奉献给你， 我的小孩
+>
+> 雨季奉献给大地， 岁月奉献给季节
+>
+> 我拿什么奉献给你， 我的爹娘
+>
+> 我拿什么奉献给你， 我不停的问
+>
+> 我不停的找， 不停的想
+>
+> ——《奉献》
 
-JavaScript frameworks like Angular, React, and Vue.js transformed front-end development. They introduced concepts like component-based architecture and virtual DOM, making it easier to build complex, dynamic web applications. Single-page applications (SPAs) became increasingly popular, providing smoother user experiences.
+伴随汽笛的高鸣，列车——在他缓缓放下手中的枝条，慌忙地扒上列车，面前的热气尚未消散，心底的悸动尚未停歇，却已准备好与他的诗共赴风雪的刑场时——开了。「别了，凛冬镇；别了，维寒迪」，他的笑容在维寒迪的风雪中缓缓定格。
 
-## The Progressive Web App (PWA) Movement (2010s - Present)
+「我是存在，从来处来，到去处去」，世界之外，维寒迪的漂游者呢喃道。
 
-PWAs combined the best of web and mobile app experiences. Front-end developers started focusing on creating websites that not only worked well on browsers but also functioned offline, provided push notifications, and offered a more app-like experience to users.
+「行欲行事，亡流亡处，是为自我」，维寒迪之外，世界的漂流者自答道。
 
-## WebAssembly and Beyond (Present - Future)
-
-WebAssembly (Wasm) is an emerging technology that allows running compiled code in web browsers at near-native speed. It opens up possibilities for front-end developers to build high-performance web applications and even port existing applications from other languages.
-
-## Conclusion
-
-Front-end development has evolved significantly, from static HTML pages to dynamic, responsive, and highly interactive web applications. With emerging technologies and ongoing advancements, the journey of front-end development continues to be exciting. As front-end developers, it's essential to stay updated, adapt to new trends, and embrace the ever-changing landscape of web development to create compelling user experiences on the internet.
+二零二三年五月二十六日

@@ -1,53 +1,91 @@
 ---
-title: 'A Guide to Web Performance Metrics'
-excerpt: Dive deep into web performance metrics, including tools and techniques for measuring and optimizing loading times. Discuss the significance of metrics like First Contentful Paint, Time to Interactive, and more.
-publishDate: 'Jan 03 2024'
+title: 游戏：向张牙舞爪的巨兽发起抗争
+excerpt: 探讨了游戏行业中的垄断与定价权，批评腾讯游戏的营销策略，强调玩家对快乐的追求与自由的渴望，呼吁抵制以营销为主的游戏，倡导真正的游戏乐趣应源于非功利的体验与艺术价值。
+publishDate: 'Aug 19, 2023'
 tags:
-  - Web
-  - Guide
-isFeatured: true
-seo:
-  image:
-    src: '/post-13.jpg'
-    alt: Abstract snow
+  - 围炉夜话
 ---
 
-![Abstract snow](/post-13.jpg)
+## 营销巨兽：垄断与定价权
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+当今的人们都追求个性，流水线上生产出的娱乐方式（那类被称为「玩具」的物什）是受人唾弃的，只有成为「玩具」（非典型）任人摆布，才算是乐趣无穷。简而言之，放弃了自由的快乐，就是最为深切的快乐。
 
-In the ever-evolving landscape of the internet, user expectations for fast and responsive websites continue to rise. **Web performance is a critical factor** that directly impacts user experience, search engine rankings, and overall business success. To ensure your website meets these expectations, it's essential to understand and optimize key web performance metrics. In this guide, we'll explore some crucial metrics and offer insights on how to improve them.
+「生活中总该有些烧钱的爱好」，诚然如此，物以稀为贵，贵物惹人爱，这合乎经济学的要义：稀缺资源的分配。然而，稀缺资源（资源稀缺性）的产生途径分为两种：天然稀缺、人工垄断。天然稀缺，即囿于生产原料、生产技术的外在限制，需要消耗大量生产资料及生活资料的制成品。人工垄断，即销售者根据专利保护与社会秩序获得垄断权，进而人为限制商品生产、销售数量以抬高价格。
 
-> Web performance is user experience. It's not just about faster pages; it's about creating a smoother, more enjoyable journey for your visitors.
+在垄断、封闭的游戏系统中，人的一切都是受到操控的。给定的任务决定游戏投入的时间，商城的标价决定投入游戏的金钱，多巴胺可以在成为「天选之子」时霎然激涌，也可以在「天不助我」的哀叹中散如云烟。存储于服务器中不可更改的游戏数据，价值胜于进行游戏的设备本身。失去对物质载体的占有权，同时也意味着失去对快乐的掌控权。「精心设计」的游戏内容被「衣来伸手、饭来张口」式地灌输给玩家，而玩家则彻底臣服于游戏运营者的秩序之下。当国王是要耗费心力、宵衣旰食的，但做个奴仆却能带来简单至极的快乐：卖官鬻爵、缴纳地租，就能富甲一方、声名显赫，再不济做个流民，即使风餐露宿，也能净赚些土地和空气——岂不美哉！
 
-## Page Load Time
+据说总有些人，骂骂咧咧地反抗，但声音总归太小，又或者身体过于诚实，还是不了了之。
 
-Page load time is the total time it takes for a web page to fully load. This metric is a cornerstone of web performance, as users tend to abandon slow-loading sites. Google, in particular, considers page speed as a ranking factor for search results. To optimize page load time, consider compressing images, leveraging browser caching, and minimizing HTTP requests.
+腾讯游戏调研实录——
 
-## Time to First Byte (TTFB)
+经费：成千，过万。
 
-TTFB measures the time it takes for a browser to receive the first byte of data from the server. It includes the time spent on server processing, network latency, and data transfer. A low TTFB contributes to faster page load times. To improve TTFB, optimize server response times, utilize content delivery networks (CDNs), and consider server upgrades if necessary.
+用时：十年。
 
-## Render Time
+## 拒绝腾讯游戏：快乐的镰刀
 
-Render time focuses on how quickly a web page can render and display content. This metric is crucial for providing a seamless user experience. Optimize render time by minimizing render-blocking resources, optimizing CSS and JavaScript, and utilizing techniques like lazy loading for images.
+腾讯系游戏，向来的特性是：只会营销，不会创造。当然，此处「营销」是广义的，既包括在法律边界舞动的抄袭（依赖于社交媒体的路径优势，通过模仿竞争对手的游戏方式与社交网络宣传来抢占市场），也包括策划市场经营行动（对竞争对手的打压、收购、兼并，以及游戏内部利用垄断权进行的活动策划）。可以看到，腾讯旗下热度尚存的游戏支柱：英雄联盟（League of Legends）与穿越火线（Cross Fire）。
 
-## Mobile Performance
+英雄联盟是由拳头公司（Riot Games）开发的塔防类（Moba）游戏，腾讯公司则拥有中国大陆地区的代理权，并以其鲜明的腾讯式运营特色收获头衔：「马服」。借助地缘优势与媒体优势，腾讯如若遮蔽在中国大陆地区的滚滚乌云，利用信息差掩人耳目，利用垄断权恣意妄为——战利品系统被置入传家宝式的重复奖励，客户端遍布无用鸡肋的广告页面，游戏环境治理停留于形同虚设的信誉分系统，炫彩皮肤摇身变为价值连城的臻彩原画，甚至启动通道也想方设法改为臃肿的腾讯式游戏分发平台（WeGame）。
 
-With the increasing prevalence of mobile users, optimizing web performance for mobile devices is paramount. Google's mobile-first indexing means that mobile performance directly influences search rankings. Ensure your website is responsive, utilize mobile-friendly design practices, and prioritize mobile performance metrics such as mobile page speed and mobile-friendliness.
+至于穿越火线，原为韩国公司笑门（Smile Gate）开发的第一人称射击（FPS）游戏。时隔多年，画质早已被一众游戏甩于身后，仅凭中国互联网浪潮推进之时的情怀玩家苟活至今——越南服，日服，韩服，台服，早已尽皆倒闭。在腾讯式运营模式下，英雄联盟与穿越火线体现出「金钱反哺流量，流量吸引金钱」的特色。铺天盖地的宣传与联动，伴着残羹冷炙、嗟来之食般的廉价活动，引得退游玩家因心生怀旧之情而回流，新玩家因好奇而入流，在成片成群的引流玩家中，总有些那么不明事理与一时上头的玩家，也就慷慨解囊，事后要么认清真相追悔莫及，要么我行我素至死方休。
 
-## Resource Utilization
+当今年代游戏最为成功的发明，当属抽卡与通行证制度——对于游戏商业运营来说是成功的，对于甘之如饴的奴性玩家而言也是成功的，也就大概是成功的创造了。当平平无奇的道具交易被放入奖池中，总会多出那么几分令人心驰神往的魔力。倘若直售不取消，其实这抽奖制度，总该算是个劫富济贫的平均选项，奈何物以稀为贵，垄断定价使得抽奖最后成为饥不择食的收割镰刀，无论韭菜长势高低，所到之处寸草不生。没人会去责备精打细算的大数据，而只会去归咎于幸运女神对自己未能青睐有加——抽奖这类事物，一旦迷信了，也就着魔，与赌徒无疑，只是小赌怡情，具有奇怪癖好的人反而会在得失的覆灭中寻到丝毫快感，甚至乎灵感。
 
-Monitoring resource utilization involves tracking how efficiently your website uses server resources, such as CPU and memory. Overloaded servers can lead to slower response times and degraded user experience. Regularly audit and optimize your website's code, databases, and server configurations to ensure efficient resource utilization.
+良心的好物自然不胫而走，令人作呕的俗物则依托金钱的翅膀随波逐流。早在今年年初之时，英雄联盟台服便以铺天盖地之势登陆各大媒体平台。投入数千元的账号，累赘般地被我以低廉的价格出售给号商，取而代之的是以数千元的价格购买的英雄联盟台服账号。只剩下前所未有的畅快，在污浊的空气中呼吸久了，就连呼吸正常的空气也便觉得清新怡人——游戏的本质，就是设计出的程式与资源，在社会分工的背景下，以合理价格出售作为机会成本的补偿；但营销的本质，则是金钱至上的运营逻辑，谁获得快乐，谁又着魔迷狂而不自知，这都无关紧要，赚到钱便是好事。
 
-## Conversion Rate and Bounce Rate
+腾讯代理的游戏，向来只应该成为小学生与中学生的娱乐法门，毕竟成年人都该有些判断能力，也该有些决断能力。但是想到当今的成年人却更偏爱那些幼稚事物，一切就不足为奇了。而持着相对主义的成年人们，自然也非本文的受众——具有着掌控欲望和自由欲望的人。参差多态乃是幸福本源，倘若爱，便去求寻，但总归要拿得起，更要放得下。
 
-Web performance directly affects user engagement and conversion rates. Slow-loading pages can result in higher bounce rates and lower conversion rates. Use tools like Google Analytics to track user behavior, analyze bounce rates, and identify pages that may need performance improvements.
+拒绝腾讯游戏，实则是拒绝以腾讯游戏为代表的营销游戏，拒绝以营销游戏为代表的营销活动。当营销铺天盖地席卷游戏环境之时，游戏系统剩下的，仅仅是日益膨胀却又等级森严的战力金字塔，仅仅是用情怀与习惯代替快乐后的留恋——毕竟，谁还会怀念明码标价的开心农场呢，谁又能从文字的漫想中寻到快乐呢。
 
-## Web Vitals
+引用塞拉斯之言作结，「他们为一个永远见不着面的国王肝脑涂地地劳作，我得让他们明白，生活远不止如此」。
 
-Google's Web Vitals initiative introduced three core metrics – Largest Contentful Paint (LCP), First Input Delay (FID), and Cumulative Layout Shift (CLS). These metrics focus on key aspects of user experience, including loading performance, interactivity, and visual stability. Aim to optimize these metrics to enhance overall user satisfaction and meet Google's performance expectations.
+## 肝帝与氪佬：快乐的自由
 
-## Conclusion
+今时不同往日，互联网技术的迅猛发展使得网络游戏替代单机游戏成为当下主流。网络游戏的运营，既需要承担服务器、网络带宽的硬件成本，同样也需要负担游戏更新、内容设计的软件成本。除去为爱发电，天下没有免费的午餐。
 
-Prioritizing web performance metrics is essential for creating a positive user experience, improving search engine rankings, and achieving business goals. Regularly monitor and optimize these metrics to ensure your website not only meets but exceeds user expectations in an ever-competitive online environment. By implementing best practices and staying informed about evolving performance standards, you can future-proof your website and provide a seamless experience for your visitors.
+在游戏系统的金字塔上爬得越高，距离快乐自由，就越近。
+
+次顶层，一人之下万人之上的，要么是氪佬，要么是肝帝。氪佬和肝帝是看不对眼的，兢兢业业的肝帝会视氪佬为人傻钱多的暴发户，抛去仇富心理不论，就精雕细琢地对游戏资源物尽其用，肝帝们可谓无出其右，有钱任性的挥霍更像是愚昧无知的暴殄天物。氪佬，假借着这么得来或那么得来的正当财富，进而无差别地睥睨一众玩家，游戏中的徽标愈是锃亮，这种居高临下的气势也就愈发恢弘。
+
+然则，即便是凯撒与教皇，也即止步于此，不可再进一步。
+
+金字塔的顶层，属于创世者。
+
+碌碌忙忙，熙熙攘攘。时间就是金钱，流量亦是金钱，任何能转变为金钱的资源，都将在游戏运营者的巧妙把戏后神鬼莫测地上演一场天衣无缝的生金魔术，而且比纯粹的摇钱树魔法来得更加令人不知不觉，却又赚得更加盆满钵满。只要存在于游戏营销的体系中，就是在为游戏体系的秩序帝国添砖加瓦，只是有些人的贡献微乎其微，有些人却功名卓著——无所谓货币、时间、流量，只有成本和代价。
+
+物有所值的等价交换，与一厢情愿的智商税，差别在于：智商税是按照游戏运营者设定的得失激励所付出的不平等成本，而等价交换是依照现实劳动所定价的平等补偿。
+
+深切想来，有些东西会后悔，总觉得不值当，而有些东西却觉合乎理性。
+
+一言以蔽之，狂热者在跳动的价码中目不暇接地追星逐月，而理智者则跳脱于游戏既定体系之外，以无差别的人类劳动衡量一切。
+
+以次充好的传家宝，又或者待价而沽的拍卖品，就尽管摔烂在哄抬物价者的怀中。
+
+## 拯救了穿越火线的火麒麟
+
+火麒麟（以火麒麟为标识的奢侈品体系），拯救了穿越火线的热度，却杀死了玩家的信任。
+
+旧时王谢堂前燕，飞入寻常百姓家。
+
+送给普罗大众的，无外乎残羹冷炙，只是这么些残羹冷炙，装点些过气的贵族饰品，也就成为慈悲、诚意与良心的象征。其实罢，哪里有什么良心，只是有了崭新的奢侈品，曾经的奢侈品也不断贬值，低贱到配得上这些平民百姓，而在日益进步的社会里，再让他们持守着过去的破铜烂铁已经不再合适了，也就做个顺水人情，施舍而已。「源（魂）系列保留竞技性平衡，英雄级武器维持充值体验」——不过一句空话，差距一直都在，只是换了种形式存在。
+
+王谢堂中方寸贵，只奈珍禽龙凤栖。
+
+不断贬值的奢侈品，就是通货膨胀的最好说明。
+
+## 冲破枷锁的「理性人」
+
+曾有人言，破解的游戏，虽带来无穷无尽的游戏资源，却将锱铢积累的琐碎乐趣一扫而空。
+
+然则，游戏的真正趣味，在于超离游戏体系内部得失之外的非功利效用。在过去，这被称作（重过程的）竞技，但在尺有所短、寸有所长的多元化社会，这被称作获得。游戏的自在乐趣实则是开发者体系化设定的得失激励系统，换而言之，带来乐趣的仅仅是达成既定目的的驱使与劳动。而被称作「第九艺术」的游戏，真正的乐趣应该在于情节设定、画面音乐、人物刻画构成的审美体验——游戏只是实现形式，而真正优秀的游戏，可以转化为音乐、小说、戏剧、神话、动漫……游戏之趣，与艺术之趣，并无分别，都是灵感与思想精心置备的陌生化世界，而不是营销与机制带来的受控囚笼。
+
+从这个角度而言，游戏（自在的、虚幻的）乐趣消亡后，游戏才真正产生了（自由的、真实的）乐趣。习惯形成的沉浸使人迷狂，崇高带来的真趣使人欢欣。即便历经破解，却依旧不失乐趣的游戏，才真正乐趣无穷。拥有英雄与造型的英雄联盟、解锁枪械与角色的穿越火线、情节打通的《色灰》（Gris）与《隐形守护者》同样妙趣横生——乐趣不再是兀兀穷年的精打细算，而是享受游戏的获得体验。那一刻，付费的对象才不是营销，而是劳动。
+
+「虽然现实会令人恐惧，但它仍然是唯一一个能够让你吃到一顿大餐的地方」——在韦德历经磨难，找到「绿洲」之匙的时候，「创世主」哈迪利如是说道。
+
+对着用虚幻收割现实的镰刀、用谎言粉饰野心的营销，勇敢反抗——
+
+对着不合理的游戏机制与异化人的游戏环境，弃之不顾——
+
+全世界玩家，联合起来！

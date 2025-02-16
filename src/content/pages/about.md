@@ -1,43 +1,25 @@
 ---
 title: About
-seo:
-  title: About Me
-  description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
-  image:
-    src: '/about.jpeg'
-    alt: A person sitting at a desk in front of a computer
 ---
 
-![Alt text for image](/about.jpeg)
+真挚的友谊是永恒的，距离无法隔断，时间无法冲淡，死亡也无法将其分离。
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+那天，当晗昕父亲强忍着悲痛告知噩耗的时候，我感到整个世界仿佛在一瞬间凝固。难以置信的震惊如寒潮般席卷全身，内心久久无法平静。看着叔叔小心翼翼地询问着关于晗昕的点点滴滴，我深知他正在努力拼凑出儿子这些年的生命轨迹，试图通过我们的回忆，去触摸那些他未能亲身经历的时光。
 
-## Ethan Donovan - Web Developer based in Estonia
+在获得晗昕父亲的支持与许可后，我建立了这个纪念网站。这里收集了晗昕生前的博客文章、照片，以及我们共同的回忆。这不仅是一个追思的空间，更是让我们得以永远珍藏他的精神家园。
 
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+每一篇文章都承载着他的思考，每一张照片都定格着他的笑容，每一段回忆都诉说着他曾经的模样。这些都是晗昕留给这个世界最珍贵的礼物，也是我们永远怀念他的方式。
 
-## Skills and Expertise
+在这里，时光仿佛静止，记忆永远鲜活。
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+愿这个网站能让所有想念晗昕的人找到一份慰藉，也让我们永远记住这个温暖而美好的灵魂。
 
-## Innovation and Problem-Solving
+## 晗昕的博客——涸河
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+涸河，是晗昕生前的博客名称。首页截屏如下：
 
-## Global Perspective, Local Impact
+![](/blog_screenshot.png)
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+博客的主题是他自己写的。
 
-## Continuous Learning
-
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
-
-## Collaboration and Communication
-
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
-
-## Get in Touch
-
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
-
-_Let's build something amazing together!_
+![](/blog_theme_screenshot.png)

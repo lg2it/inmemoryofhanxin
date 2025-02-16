@@ -1,70 +1,45 @@
 ---
-title: Building an Impressive Front-End Developer Portfolio
-excerpt: In the competitive world of front-end development, a strong portfolio is your ticket to showcasing your skills, making a lasting impression on potential employers or clients, and advancing your career.
-publishDate: 'October 5 2023'
+title: 走在朝圣与祛魅的道路上
+excerpt: 在朝圣与祛魅的旅途中，个体在选择与命运的交织中探索未知，经历生活的变迁与情感的寄托，最终在北京这座城市中感受到自我与社会的联系与迷茫。
+publishDate: 'Aug 15, 2020'
 tags:
-  - Web
-  - Web development
-seo:
-  image:
-    src: '/post-2.jpg'
-    alt: Half open laptop on a desk
+  - 北漂漫记
 ---
 
-![Half open laptop on a desk](/post-2.jpg)
+我有一个「黑匣子」，但其实也没那么神秘，就单单是个黑色的、摆着各种物什的小盒子。一枚联合国儿童基金会（UNICEF）的戒指，那是二零二零年加入「月捐为救灾」计划的纪念品，一个金士顿优盘，带着 Discuz! 的订制标识，每一个物品都在昭示着一个存在。《周处除三害》里陈桂林有块印着小猪图案的手表，从奶奶那得来的，在审判和行刑前交给了程小美，未尽的仪式就这么被心照不宣地画上句号；《遗忘诗行》里有块鲸鱼耳坠，逝者生前的遗物，遗落在停尸房里，那里同样遗落着逝者难以安息的灵魂；《爱情公寓》里，曾小贤在陪同陆展博购置西服时看到满墙的照片，里面镶嵌着那些人来到世间的痕迹。自然界被人类一步步地改造成人的自然界，自然物也被人的见闻阅历填满人类的情感和意涵。
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+「一花一世界，一叶一菩提」，街边三轮车上一块布满裂痕的玻璃就是一个普通人缝缝补补的生活，《在马克思墓前的讲话》里的一段文字就是马克思与恩格斯同行路上的一段历程，实体和文字都是记忆的载体和存在的证明。给无情的岁月以文明的温度，不要让文明的砖瓦在岁月的蠹蚀下斑驳失色。
 
-In the competitive world of front-end development, a strong portfolio is your ticket to showcasing your skills, making a lasting impression on potential employers or clients, and advancing your career. Your portfolio is your digital business card, and it should be a reflection of your talent, creativity, and expertise. In this post, we'll walk you through the steps to create an impressive front-end developer portfolio that will help you stand out in the crowd.
+日前忽地想起冷落已久的 QQ空间，潦草写下「好久没发动态了」，随后在这故纸堆里翻箱倒柜地找些过去的文字，被揉成一团的旧纸张，打开后只见得满面褶皱，时过境迁中多多少少有些变得面目全非。第一条空间动态是二零零九年发的，内容只是短短的「2009」。挑挑拣拣、缝缝补补之中，有文字散佚了，也有文字流变了，慢慢地，原来的日子看不清了，你不知是日子距离人越来越远了，还是年岁渐长的人老眼昏花了。「上头日日风复雨，行人归来石应语」，王建《望夫石》里的石像，还有《幽灵宝可梦与夏日祭典》里少女峡上徘徊的少女幽灵，有些人，有些事留在过去了，石化了、风干了。来人能触摸到的，只有那无言的冰冷的石像，可这人又是多么热切地祈望着，这石像能够开口呀！过去是回不去的一处荒原，在那里居住着的只有过去的人，即便是那些还在世上的人，也回不到那昔日的过往。
 
-## 1. Showcase a Diverse Range of Projects
+这篇文字的本来面貌也并非如此，原是为了留存暑期学堂写下的一段文字，只是为了这盘醋就包了一桌的饺子，到头来饺子反而喧宾夺主了。
 
-Your portfolio should be a testament to your versatility. Include a variety of projects that demonstrate your skills in different areas of front-end development. Consider including projects like:
+> 天灾不由人所定，昼夜重相催光阴。
+>
+> 骋月牧阳气干云，不蔓不枝香益清。
+>
+> 骏马驰郊诚昭天，连心同德为人杰。
+>
+> 钟灵毓秀人如镜，恍惚回首忽已暝。
+>
+> 学浅才疏技艺平，无三两技惹欢心。
+>
+> 朋呼伴引急欲行，且行且定不得停。
+>
+> 泪泉寒彻心中凝，遗憾随波逐流云。
+>
+> 冀君共勉生羽翼，来年一化北冥鱼。
+>
+> 龙蟠凤栖百鸟鸣，聚首再歌燕园情。
 
-- **Responsive Websites:** Showcase your ability to create websites that adapt seamlessly to various screen sizes and devices.
+时值疫情横行，只得在省内参加暑期学堂活动，在前往江西师范大学的地铁上我拍过一张照片，里面有三个人，这本身没什么稀奇的，只是到头来却成了个隐秘的预兆——这三个人都如愿以偿地来到了北京大学。当然，这三个人里面没有我，我当时在拍照，但是我也阴差阳错地就这么过来了。史铁生在《我与地坛》里写道，「在科学的迷茫之处，在命运的混沌之点，人惟有乞灵于自己的精神。不管我们信仰什么，都是我们自己的精神的描述和引导」。我一面质疑命运的这种不切实际，但另一面又为人生之中冥冥的联系而慨叹。你相信世界上有神明吗，你相信命运吗？我并不相信，但是这稀奇古怪的人生确实因为这不可预测的随机性而变得诡谲隐秘、变得气象万千。
 
-- **Interactive Web Applications:** Feature web applications that engage users with dynamic features and functionalities.
+人的一生都行在一条朝圣的路上，一条祛魅的路上，对未知面貌的好奇与探求贯穿人的一生，贯彻人类社会的进程。一个又一个的神话和传说在人类的口耳相传中被编造出来，又在认识和实践之中被粉身碎骨。《塔洛》中有一条朝圣之路，从拉萨到北京，再到纽约，这条路，塔洛在走着，中国人在走着，我也在走着——但是在走完这一遭后回到哪里，不同的人的选择也不尽相同。
 
-- **E-commerce Websites:** If you've worked on e-commerce sites, include them to demonstrate your expertise in handling complex web development tasks.
+对于南方人而言，「一路向北，无问西东」会是在朝圣与祛魅途中气贯长虹的宣言，但我只是颇为戏谑地寥寥写下了「从南昌到北京，上大学吃小吃」，没有什么文艺范，也欠缺浪漫气息，但从效果上来看，也算差强人意。
 
-- **Open Source Contributions:** Highlight your involvement in open-source projects or contributions to online coding communities.
+在命运的安排中选择道路，在选择的道路上相信命运。社会环境为个体划出一条选择与局限并存的道路，站在选择的路口，人的能动性在纠结反复或是斩钉截铁地做出决断时，我们和社会一同为自己划定命运，走向必然性与或然性之下的特定可能。
 
-## 2. Highlight Your Coding Skills
+北京是稳定而平淡的城市，南方的雨露很少光顾于此，风尘与雾霾间歇肆虐。辣味寄居的味蕾常常在平淡的清汤寡水中回忆乡愁，而干燥的唇口又不得不用大量的饮水来安抚。你找的见古风犹存的屋檐，也会在城市的钢筋野兽面前变得渺茫，这里是个大熔炉，是中国脉络跳动得最为鲜活的地方之一，跳动在车水马龙与人潮汹涌中。
 
-Your portfolio should provide a clear view of your coding proficiency. Consider the following:
-
-- **Clean and Organized Code:** Present your code in a clean and well-organized manner. Use proper indentation, comments, and coding standards.
-
-- **Use of Version Control:** Showcase your use of version control systems like Git and GitHub to demonstrate your collaboration and code management skills.
-
-- **Code Samples:** Include snippets of code from your projects to give visitors an insight into your coding style and problem-solving abilities.
-
-## 3. Emphasize Responsive Design
-
-As a front-end developer, responsive design is paramount. Ensure that your portfolio itself is a shining example of responsive design. It should look and function flawlessly on a variety of devices, including desktops, tablets, and smartphones.
-
-## 4. User Experience (UX) Matters
-
-Front-end development is not just about writing code; it's about creating a great user experience. Explain your thought process behind the user interface (UI) and UX decisions you made in your projects. Discuss how you optimized performance and accessibility.
-
-## 5. Document Your Projects
-
-Accompany each project with a detailed description. Explain the project's goals, your role in it, the technologies and tools you used, and any challenges you overcame. This documentation provides context and depth to your work.
-
-## 6. Regularly Update Your Portfolio
-
-A stagnant portfolio can give the impression of inactivity or lack of progress. Regularly update your portfolio with your latest work and projects. Remove outdated or less impressive work to keep your portfolio relevant and impactful.
-
-## 7. Test and Optimize Load Times
-
-Slow-loading websites can turn visitors away. Ensure your portfolio loads quickly by optimizing images and using proper techniques to minimize load times.
-
-## 8. Seek Feedback
-
-Before finalizing your portfolio, seek feedback from peers, mentors, or online communities. Constructive criticism can help you refine your portfolio and make it even more impressive.
-
-## 9. Personalize Your Portfolio
-
-Your portfolio is not just about your work; it's also about you. Add a personal touch by including an **"About Me"** section that tells your story, your passions, and what makes you unique as a front-end developer.
-
-Remember, your front-end developer portfolio is an ongoing project. Keep refining it, stay up-to-date with the latest trends, and let it evolve as your skills and experience grow. An impressive portfolio not only serves as a testament to your abilities but also opens doors to exciting opportunities in the world of front-end development.
+在这座偌大的城里人们洞见这个国度，也窥见其中的自我，渺小的个体同风滚草那般漂泊流浪，却也同浪子般自由不羁。千千万万的人们一同走着，相遇在这条朝圣与祛魅的道路上。可能的对面是迷茫，迷茫的对面是可能。

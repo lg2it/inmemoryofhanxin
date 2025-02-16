@@ -38,12 +38,12 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: 'In Memory of Hanxin',
+    subtitle: '涸河——无尽的追思',
+    description: 'A memorial website for Hanxin, a beloved friend and colleague.',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: '/post-6.jpg',
+        alt: 'In Memory of Hanxin'
     },
     headerNavLinks: [
         {
@@ -51,17 +51,16 @@ const siteConfig: SiteConfig = {
             href: '/'
         },
         {
-            text: 'Projects',
-            href: '/projects'
-        },
-        {
             text: 'Blog',
             href: '/blog'
         },
         {
+            text: 'Album',
+            href: '/projects'
+        },
+        {
             text: 'Tags',
-            href: '/tags'
-        }
+            href: '/tags'}
     ],
     footerNavLinks: [
         {
@@ -69,50 +68,23 @@ const siteConfig: SiteConfig = {
             href: '/about'
         },
         {
-            text: 'Contact',
-            href: '/contact'
-        },
-        {
-            text: 'Terms',
-            href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
-        }
-    ],
-    socialLinks: [
-        {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
-        },
-        {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            text: 'Copyright',
+            href: '/copyright'
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        title: '序言',
+        text: "2025 年 2 月 11 日，我们挚爱的朋友——晗昕——悄然离开了这个世界，踏上了通往永恒的旅程。这一天，天空格外地沉默。</br>他的离去是如此突然，犹如冬日里一片无声飘落的雪花。在这个数字化的时代，他的博客、域名等数字足迹，如同散落在云端的星辰，未及交付便成为了无法触及的思念。</br>怀着对挚友无尽的追思，在获得他父亲的支持后，我们建立了这个永恒的回忆之所。这里，将成为承载他生命印记的港湾。</br>与许多同样深爱着他的朋友们一起，我们如同拾珍珠般，小心翼翼地收集着晗昕生前留下的每一篇文章，每一帧照片。正如他生前所说的那句令人泪目的话：「在我离开的时候，文字会代替我的心脏继续跳动。」</br>是的，亲爱的晗昕，你的文字依然跳动着，在这里，在我们的心里，永远鲜活如初。",
         image: {
-            src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
+            src: '/post-6.jpg',
+            alt: 'A Memorial Website for Hanxin'
         },
         actions: [
             {
-                text: 'Get in Touch',
+                text: '晗昕自述',
                 href: '/contact'
             }
         ]
-    },
-    subscribe: {
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
-        formUrl: '#'
     },
     postsPerPage: 8,
     projectsPerPage: 8

@@ -1,67 +1,164 @@
 ---
-title: Your Roadmap to Framework Selection Success
-excerpt: Choosing the right framework for your web project is a critical decision that can significantly impact the development process and the success of your project. With so many options available, it's essential to consider various factors before making a choice.
-publishDate: 'Jan 11 2024'
-isFeatured: true
+title: 以爱为名的围城
+excerpt: 爱是人与人之间复杂的双边关系，既包含生物本能和情感依赖，也涉及对美的追求和自我认同。人们在追求爱情的过程中，常常在孤独与渴望之间徘徊，体验着甜蜜与痛苦的交织。
+publishDate: 'Aug 22, 2023'
 tags:
-  - Web
-  - Guide
-seo:
-  image:
-    src: '/post-14.jpg'
-    alt: Wavy lines
+  - 围炉夜话
 ---
 
-![Wavy lines](/post-14.jpg)
+> 从这空无一物却又满溢流泻的潮水里，这以爱为名的围城中，从未到来的人自以为脱逃而出，及至环顾四周，却又发现自始至终都未曾离开半分。满目砖石凝存着笑的诗篇与泪的悲剧，交杂着望眼欲穿与不忍直视的空气下，澄澈的天空仿佛也污浊了，灰黯的天空却又好似明净了。
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+## 围城：祛魅与腻味
 
-**Choosing the right framework** for your web project is a critical decision that can significantly impact the development process and the success of your project. With so many options available, it's essential to consider various factors before making a choice. Here's a step-by-step guide on how to choose the right framework for your web project.
+> 围在城里的人想逃出来，城外的人想冲进去。
+> ——《围城》
 
-> Web frameworks are the architectural blueprints that empower developers to build the digital landscapes of tomorrow.
+高墙竖起内外的隔障，墙内的人艳羡墙外的自由，墙外的人却对墙内的安稳望眼欲穿。人，各有各的悲苦，也各有各的甜蜜，却不止地羡慕彼此的生活。俗话说，旅游，就是从腻味的地点到他人腻味的地点。生活，也大抵是恢弘盛大的变形记，逐渐品味千滋百味的式样，也就对个中好坏了然于心。
 
-## Understand Your Project Requirements
+林荫小道上，酡红的晚霞熏得牵伴的游人面红了三分，拌进些许青春色调的青黄，橘色的甜腻与青橙的酸涩，经由禁忌的发酵和落日殷红的炙烤，熬至夜半，在渐而冷清的月色中干冷地坠入黑甜乡。在羞怯、甜蜜、酸楚、痴狂与清醒的波涛起伏中，在交际舞步式此进彼退的迂回试探中，酥麻的神经末梢不知不觉地在心电图和海马体上留下蛛丝马迹。这游丝般幽微难寻却又蛛网般密不透风的经验式杂谈，被称作恋爱。
 
-Start by thoroughly understanding the specific requirements of your web project. Consider factors such as the project's scope, complexity, and the features you need. Ask questions like:
+有人说，爱是生物本能下达的指令，又或者是好奇心接连作祟，又或者是群居动物对孤寂的本能式抗拒，是信教徒的规训教条，还是弥补缺憾的不实期望，早已不知从何而起，说来只觉欲语还休。浪漫化的回忆借着文字的渲染传播为非作歹，用不胫而走的流言吸引懵懂无知的行人冲入围城，成双成对的动物，旁若无人的一举一动都在以爱之名传教布道。
 
-- What is the project's purpose?
-- What are the key functionalities it should have?
-- Are there any specific technical or performance requirements?
+在经验主义学派的视角下，恋爱是对世界的欠目的考据，浪漫主义者则视之为国王与王后圣洁的加冕仪式。个人主义者，离经叛道的会认为爱恋是排他性的奔赴与逃难，固守传统的则功利地宣称，爱是对于马斯洛需求模型的实现路径。唯物主义者会从社会分工与经济关系的实体化娓娓道来，柏拉图式的唯心主义者却坚信，思想和灵魂的缠斗和解是相爱相杀的本源。
 
-## Define Your Tech Stack
+爱是耳目一新的祛魅仪式，也是喜新厌旧的陈词滥调。城外的人欲图蜂拥而入却不得门道，城内的人念叨着脱逃而出却又往往口是心非，飘游在山水夕照的人看破红尘。墙下的砖石写尽离合悲欢，而我坐在高高的城墙之上。有那么一刻，且常常有那么一刻，欲图纵身跃入深不可测的围城，但心忧挑剔成性的孤独患者祸害苍生，我还是静静地坐在城墙之上。
 
-Determine your preferred technology stack. This includes choices for the frontend (HTML, CSS, JavaScript), backend (programming language, database), and any other technologies you plan to use. Your framework should align with your chosen tech stack.
+有那么一刻，或许将来有那么一刻，纵身跃入围城的深不可测——得之我幸，不得我命。
 
-## Consider Your Team's Expertise
+## 恋爱的犀牛：路灯与月光
 
-Assess the skills and expertise of your development team. Choose a framework that your team is comfortable with or is willing to learn. If your team is experienced in a particular language or framework, it may be more efficient to stick with what they know.
+> 我爱你 你爱她 她爱她 她爱他
+>
+> 你爱我 我爱他 他爱他 他爱她
+>
+> 咦 怎么这世界 已经没有人相爱
+>
+> 怎么这世界 每个人都不快乐
+>
+> 怎么这世界 每个人都爱别人 不爱自己
+>
+> ——《LOVE!》
 
-## Community and Ecosystem
+无穷无尽的追逐轮回，优胜劣汰的无尽厮杀。
 
-The strength and vitality of a framework's community and ecosystem are paramount considerations when making your choice. A thriving community signifies that the framework is actively used and supported by developers worldwide. Here's why this matters.
+往昔何时，夜色深邃，街道上的人纷纷驻足，举目望向空中皓月，伸手抵住月的轮廓，轻轻巧巧地挪移。
 
-> Good code is its own best documentation. As you're about to add a comment, ask yourself, 'How can I improve the code so that this comment isn't needed? - **Steve McConnell**
+在那么一刻，月色把人照得没有分别，照得沉默无言，照得清冷酸涩，照得痴醉狂热，照得只在脸上晕染上些微清白，成群成片地覆满夜的漆黑。
 
-**Support and Problem Solving:** A robust community ensures that you won't be left in the dark when you encounter issues or challenges during development. It's a vast network of developers who are willing to help and share their knowledge. You can turn to forums, Stack Overflow, GitHub discussions, and various online communities for assistance. The more active the community, the faster you're likely to get answers and solutions to your problems.
+渐而，乌云渐起，月痕微淡，终究只剩下视网膜上似淡渐浓的神迹。
 
-**Third-Party Libraries and Plugins:** An active ecosystem often means a wealth of third-party libraries, plugins, and extensions that can extend the functionality of your chosen framework. This can significantly speed up development by providing pre-built solutions for common features and functionalities.
+月起人见月，月落月见人。循月人渐去，人去月渐离。月光，碎落在渐行渐远的人影中；人影，消散在渐去渐淡的月色中。
 
-**Continuous Improvement:** A large and engaged community usually translates to continuous improvement of the framework. Developers are more likely to contribute bug fixes, enhancements, and new features, leading to faster updates and a more stable platform. These contributions keep the framework up-to-date and aligned with industry standards.
+没有月亮的日子，就三三两两倚靠在路灯上沉沉睡去。蜉蝣朝生暮死，在朝阳的蒸融下，随薄雾消散得无影无踪。
 
-**Tutorials and Learning Resources:** A thriving community often generates a plethora of tutorials, blog posts, video courses, and documentation. This abundance of learning resources can be immensely valuable for both beginners and experienced developers looking to master the framework. It makes the learning curve smoother and promotes the adoption of best practices.
+无辜的月是悲情连续剧的始作俑者，但日月轮转是亘古而来永不止歇的自然律，追星逐月也是深入骨髓的旧习俗，命中注定，就如飞蛾要扑向星火。
 
-**Long-Term Viability:** A framework with a strong community is more likely to have a longer lifespan. It's reassuring to know that the framework you choose today will still be supported and updated in the years to come, reducing the risk of your project becoming obsolete due to a lack of maintenance.
+路是月的痕，月是路的灯。少数双目染疾的人有幸逃过月的垂钓，高悬的月与低挂的灯都是朦朦胧胧的光晕，被人看得没有分别，或许月色清白几分，或许灯色昏黄些许，只消只言片语，「今夜月色真美」。
 
-## Documentation and Learning Resources
+> 火车上的小情侣。两个都长得不好看。她拉着他，笑吟吟的，撒娇，撩拨他。而他，两眼无神，因在大庭广众之下被一个他并不引以为傲的女人爱着而感到尴尬。
+>
+> ——《加缪手记》
 
-Check the quality and availability of documentation and learning resources for the framework. Well-documented frameworks are easier for developers to learn and work with.
+根据人类学相关研究，维纳斯和丘比特是同素异形体，或者是逻格斯因果链下的首尾两端：深得维纳斯临幸的人，也就更容易引来丘比特的宠爱。俗话有云，「爱美之心，人皆有之」，想来也是论证爱美一体论的绝佳证据。
 
-## Scalability and Performance
+康德派认为，美是无目的的合目的性，虽有道理，却不实际，因为人的行为或多或少带有这般或那般的目的。即便是无目的的合目的性，也会激发排他或非排他的占有欲，不然也就不会有收藏家，也不会有摄影师，没有强取豪夺，分款销赃的拍卖行也当纷纷停业。
 
-Consider whether the framework can scale to meet your project's future needs. Will it handle increased traffic and data without performance bottlenecks?
+而人也都是攀附上进的，能够向下兼容的只有电脑系统与宽和的神明。二十一世纪，维纳斯派成功夺得主导地位，但凡遇见些神迹，总是要摇尾乞怜，或是追捕悬赏，「见色起意」的说法早就落入俗套了，「见色不起意」才是新时代格格不入的异教徒。
 
-## Security
+在《男人眼中的女性美》中，王小波颇具人性地提出：「年轻漂亮的小姐们不怎么化妆，倒是中老年妇女总是要化点妆。这样从总体上看，大家都相当漂亮。另外，年轻、健康，这本身就是最美丽的，用不着用化妆品来掩盖它」。但囿于国情特殊，庞大人口基数总将颜值焦虑成倍放大，再加上臻于至善的行事作风，化妆也就别出心裁，再加上经济的增长与国民营养的改善，颜值增长较之金圆券有过之而不及。不难发现，较之于浑然天成的自然之美，精心雕琢的人为之美更能引人入胜。
 
-Security is crucial for any web project. Ensure that the framework has security features built in and is actively maintained to address security vulnerabilities promptly.
+今夜月色真美。
 
-In conclusion, choosing the right framework for your web project involves a careful evaluation of your project's requirements, your team's expertise, community support, and various technical factors. Taking the time to make an informed decision at the outset can save you time, resources, and headaches as your project progresses.
+今夜月色真美，拍个照片。
+
+今夜月色真美，拍个照片，发个朋友圈。
+
+今夜月色真美……
+
+## 无穷集之和：求同与存异
+
+> 不求同嘛，走不到一起；不存异，走不下去。 有些事情你始终要明白，什么分歧是可以无视的，而什么分歧，你是永远逃避不了的。
+>
+> ——《爱情公寓》
+
+函数，是微妙的抽象概念，本不具有实体，却在定义域、值域、作用法则、表达式、性质的种种堆叠之下勾勒出具象化的认知对象。形如函，纳四方，不尽数，进而出。
+
+科学地说，自由粒子可以被波函数描述；哲学地说，自由人与无穷的函数何其相似。时间是延绵不断的横向坐标轴，空间构成连续可能的值域，人就存在于这微妙的作用法则中，并反而为这作用法则添砖加瓦。在这样简陋的数学-哲学模型下，人与人的联系就构成函数联立的方程组。纷繁庞杂的全集之下，孤立的个体独守无穷的集合，或而遇见另一个，相同之处也就成了交集，相容之处也就成了并集。
+
+求同存异的集合运算，就是联系。相较于无穷元方程组，二元方程组的解显得更一目了然，且人的心力往往只够得求解二元方程，再高的维度就要依赖于理性的算计。作为双边关系中的特殊存在，爱，最为简约，却最为深切：正无穷与正无穷间搭起的浮桥，漫长到需要用一生穷尽时空的可能，在平行、相交、相离的可能性之中反复探寻，用深切的认同与悦纳构成交集的勾连处，又以异质的存在拓宽并集的边界。
+
+「从前的日色变得慢，车、马、邮件都慢，一生只够爱一个人」，从前如此，往后依然，爱的流通次数只有零和一，只是交心之前，反反复复的试探，深深浅浅的算计，营造出破碎轻浮的喧哗闹市。深切的爱天然具有排他性，因为泛滥的暖意与爱相左。
+
+## 谁在爱着谁：噬物、贡品与恋人
+
+爱，存乎人与人之间的双边关系。一厢情愿的利他主义，自私自利的个人主义，都算不得爱情。
+
+利他主义的标准结局是水中捞月，也不乏有情人终成眷属的大团圆结局，至于情感是幡然醒悟的纯粹爱情，还是知恩图报的恩情佯装成爱情钓名欺世，也就不得而知。善于与过去和解的人会自豪地留下「爱过」的存证，而郁郁不得的人只能歆享「痴情」的赞誉，现今则更可能背负「舔狗」的骂名。就目的论而言，利他主义混杂了自恋的自私自利与他恋的舍己为人，可谓是爱得满是矛盾。一厢情愿的爱，或许是令人钦佩的唯命是从，及至挑明关系、辨明利害，也可悻悻地各自回归清静，糟糕些的是痴狂的猛兽，借助他人满足自己的心理需求。更有甚者，可谓让被爱的对象叫苦不迭，牛皮糖式地驱不散赶不走，虔信巴塔耶式的消耗作风，留下负外部性的满地鸡毛，想必这类应该称得上声名狼藉的个人主义。将利他主义贯行到纯粹的，也只轻轻地来，轻轻地走，虽有求必应，但绝不死缠烂打。
+
+奉行功利个人主义的大抵需要有些过人长处，像极神明的使者下临凡间征收贡品以及杂七杂八的税收，转瞬之间又好似地域的仆从侵入人间带来不死不休的折磨与报复。虽说后现代的爱是多姿多彩的，无论年龄长幼、亲缘远近，甚至跨越性别种族，都可以勇敢地付诸爱与理解，但是贡品式的虐恋，不说是对人类情感的亵渎，也属实有些过于超前而让人难以理解。
+
+我在爱着你，正如你在爱着我。人与人幽微难明的情感扰动，就夹杂于狂热和冷静的冷暖浪潮中。
+
+## 缘起何来：兴趣与依恋
+
+> 「你听过一见钟情吗？」
+>
+> 「我一见你就挺钟情的。」
+>
+> 「咱们三见也钟不了情。」
+>
+> 「一见钟情，不是你一眼看上了我，或者是我一眼看上了你。不是看，是味道。
+>
+> 彼此被对方的气味吸引了、迷住了。气味相投，你懂吗？」
+>
+> 「两个陌生人，萍水相逢，一见面，凑上去一通乱闻，可能吗？」
+>
+> 「不要凑上去，相同的气味呢隔着八丈远，你都可以闻得到。」
+>
+> ——《我不可能对你一见钟情（I can't love you at first sight）》
+
+缘分是让人捉摸不透的微妙东西，观众和主播的缘分不知怎地会和金钱正相关，颜值出众的人更易成为命中注定的喜剧主角，相貌平平的人却总是有缘无分的特约演员。
+
+有人说，喜欢是浅淡的爱，爱是深刻的喜欢。突如其来的好感，来自于内心深处被莫名勾起的兴趣，要么是性欲，要么是美欲，要么是爱欲。「食色，性也」，性与繁衍本能在激素作用下主导的欲望类型是普遍的，混杂几分好奇心就成为学生时代青涩朦胧的冲动，当然，在社会化的中年人群中，混杂的更多是征服欲，即对权力与占有的象征。具有斩钉截铁般了断的豪放派，通常会直接地寻求性伴侣（Friends with benefits），半推半就的婉约派则需要保有些许形式正义的文明象征，形式大于内容的正义。当然，这种正义经不起心眼伶俐的算计和伪装，总而言之，多少爱恨情仇，消融在清冷风月之中。
+
+美欲是广而泛之的，颜值控、智性恋、慕强心理皆可被归纳于此。美欲恋爱总是带着些微占有欲的，毕竟对于路边芳香馥郁的野花，远观而不亵玩就足矣。抽丝剥茧地说，美欲近似与神明的爱恋，即对将美好事物的向往、崇拜、好感转化为亲密关系，进而产生亲近感、可依赖感、榜样激励以及或多或少的独占成就。
+
+独属于人的爱恋兴趣，是爱欲。人存活在野兽与神明的夹缝之间，单纯的性欲显得露骨而野蛮，纯粹的美欲又有些许不近人情，更多地，美欲和性欲要成为导火索式的兴趣切入点，而后也就成为爱欲的佐料。爱欲要复杂得多，是同声相应、同气相求的臭味相投，是对抗凉薄、相互扶持的人性抗争，是交心放心的立约仪式，是造化弄人却又恰如其分的相爱相杀，也是心照不宣、相视无言的含情脉脉，宛若此凸彼凹的两张拼图般耦合一处，只消那么些许冲动，求「我爱你」的冲动。
+
+> 携着茱萸与茉莉的馥郁芳香，
+>
+> 伴随意识凋零，尊严渐而消亡，
+>
+> 就这么生不如死地，将错就错。
+>
+> 不是贪恋生命，而是依恋爱情，
+>
+> 「让我留在你身边」。
+>
+> ——《深海长眠（读后感）》
+
+爱是潮水退却、风轻云淡后依旧的不曾改悔，是耳鬓厮磨、岁月老去却共渡时光的从容，是疲乏无力飞行时，相互负担起前行的重量，是携手并肩、自进自新的活力，是朝圣神灵却又拒绝魔鬼的勇气，是絮絮叨叨的烦躁也是心照不宣的默契，是轻薄浪漫的言语也是厚实笃定的行动，是相互融入后丧失的自我也是自我依旧下彼此磨合的矛盾，是唯一的一切也是一切的唯一...爱是太多，是一个世界到另一个世界的桥，是生命的重量以交心的仪式平分给另一个生命——朝生暮死的烈火为爱极具浪漫主义地点燃开头，但是燃烧不息还是风过无痕，没人说得准。
+
+爱与喜欢，隔着依恋。
+
+彼此依恋的人，假以悦纳为名的力量，扫清岁月的讹误、当下的缺陷与将来的风险，在交相扶持的习惯与心照不宣的信任中，无需多言，紧紧相拥。
+
+## 孤独患者：被亵渎的七夕
+
+明月别枝，清风鸣蝉。
+
+用掺杂羡慕的嫉妒亵渎相爱。
+
+借着歇斯底里与漠不关心，
+
+赶跑盘旋扑飞的喜鹊，
+
+衔走心绪万千。
+
+困守孤城，也难；
+
+闯入围城，也难。
+
+任其自然。
+
+二零贰叁年 八月 二十二日

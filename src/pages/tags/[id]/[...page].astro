@@ -12,13 +12,38 @@ export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
     const posts = (await getCollection('blog')).sort(sortItemsByDateDesc);
     const tags = getAllTags(posts);
 
-    return tags.flatMap((tag) => {
-        const filteredPosts = getPostsByTag(posts, tag.id);
+    // 添加调试日志
+    console.log('所有标签:', JSON.stringify(tags, null, 2));
+
+    // 确保 tags 不为空且格式正确
+    if (!tags || tags.length === 0) {
+        return [
+            {
+                params: { id: 'default' },
+                props: { page: { data: [], start: 0, end: 0, total: 0, currentPage: 1, size: 4, lastPage: 1 } }
+            }
+        ];
+    }
+
+    // 过滤掉没有有效 id 的标签
+    const validTags = tags.filter((tag) => tag.id && tag.id.trim() !== '');
+
+    const paths = validTags.flatMap((tag) => {
+        const filteredPosts = getPostsByTag(posts, tag.name); // 使用 name 而不是 id 来匹配文章
+        console.log(`生成标签 "${tag.name}" (id: ${tag.id}) 的路径，文章数量: ${filteredPosts.length}`);
+
         return paginate(filteredPosts, {
             params: { id: tag.id },
             pageSize: siteConfig.postsPerPage || 4
         });
     });
+
+    console.log('生成的路径数量:', paths.length);
+    if (paths.length > 0) {
+        console.log('第一个路径示例:', JSON.stringify(paths[0], null, 2));
+    }
+
+    return paths;
 }
 
 type Props = { page: Page<CollectionEntry<'blog'>> };

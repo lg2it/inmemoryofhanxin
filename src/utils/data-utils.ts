@@ -6,20 +6,29 @@ export function sortItemsByDateDesc(itemA: CollectionEntry<'blog' | 'projects'>,
 }
 
 export function getAllTags(posts: CollectionEntry<'blog'>[]) {
-    const tags: string[] = [...new Set(posts.flatMap((post) => post.data.tags || []).filter(Boolean))];
-    return tags
-        .map((tag) => {
-            return {
-                name: tag,
-                id: slugify(tag)
-            };
-        })
-        .filter((obj, pos, arr) => {
-            return arr.map((mapObj) => mapObj.id).indexOf(obj.id) === pos;
+    const tagMap = new Map<string, { name: string; id: string }>();
+    
+    posts.forEach((post) => {
+        const postTags = Array.isArray(post.data.tags) ? post.data.tags : [post.data.tags];
+        postTags.forEach((tag) => {
+            if (tag && typeof tag === 'string') {
+                const name = tag.trim();
+                // 使用 name 作为 id，但将其转换为 URL 友好的格式
+                const id = name.toLowerCase()
+                    .replace(/\s+/g, '-')
+                    .replace(/[^\w\-]+/g, '');
+                
+                tagMap.set(name, { name, id: id || name });
+            }
         });
+    });
+    
+    return Array.from(tagMap.values());
 }
 
-export function getPostsByTag(posts: CollectionEntry<'blog'>[], tagId: string) {
-    const filteredPosts: CollectionEntry<'blog'>[] = posts.filter((post) => (post.data.tags || []).map((tag) => slugify(tag)).includes(tagId));
-    return filteredPosts;
+export function getPostsByTag(posts: CollectionEntry<'blog'>[], tagName: string) {
+    return posts.filter((post) => {
+        const postTags = Array.isArray(post.data.tags) ? post.data.tags : [post.data.tags];
+        return postTags.some(tag => tag && tag.trim() === tagName);
+    });
 }

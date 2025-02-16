@@ -1,86 +1,49 @@
 ---
-title: 'Unveiling the Magic: Exploring the Latest CSS Features'
-excerpt: 'Highlight and explain the newest CSS features or updates. Include examples and demonstrate how these features can enhance the styling and layout of web pages.'
-publishDate: 'October 11 2023'
+title: 北京，北京
+excerpt: 在北京的繁忙生活中，作者体验了美食与购物的乐趣，描绘了城市的喧嚣与宁静，反映了对生活的思考与对美的追求，最终在回归的旅途中感受到城市的真实与变化。
+publishDate: 'Jun 2, 2023'
 tags:
-  - CSS
-  - Web development
-isFeatured: true
-seo:
-  image:
-    src: '/post-8.jpg'
-    alt: Light lines on a dark background
+  - 北漂漫记
 ---
 
-![Light lines on a dark background](/post-8.jpg)
+## 二零二三年，六月，一日。
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+学期后半程，退掉繁琐的习题课，让渡出周五的下半段，在饥饿欲望的呼喊中，因循渐渐养成的习惯，将时间、金钱，连同一切有的没的，彻彻底底地挥霍在味蕾的饕餮中。功利的诱惑太大，以至于人们的想法不约而同地重合，尽数涌入巴沟站的海底捞，方才凌晨就已预约一空，日出、日中、日仄、日落，剩不得半点空余。好在北京的现代交通比较发达，从巴沟站到远大路站，在 688 路公交的车轮下，几公里的距离零头般地被抹去。二零二三年六月二日，世纪金源，海底捞。
 
-CSS, the styling powerhouse of the web, is constantly evolving to meet the demands of modern web development. In the ever-expanding landscape of front-end technologies, staying abreast of the latest CSS features is crucial for creating sleek, responsive, and visually stunning websites. Let's take a deep dive into some of the most exciting and powerful CSS features that have emerged in recent times.
+## 二零二三年，六月，二日。
 
-## 1. **Grid Layouts for Responsive Design**
+乘着电梯直上五楼，兜兜转转，却不见海底捞的踪影，然而距离开台尚且有十多分钟，走走逛逛也无妨。多出几公里，在寥寥数分钟的车程中不过转瞬即逝，给人的感觉却恍如异世。大抵是距离市中心更近，巴沟购物中心中的餐饮门店，大多迈不开手脚，逼仄而缺乏新意。相较而言，世纪金源购物中心餐饮门店的装潢则独具匠心，令人眼前一亮。古色古香的木制桌椅肆意而恰到分寸地占据过道将近三分之一的空间，转动的假山水车与酒肆肉铺式的前台门面使人置身百年前的街头巷尾，成片的落地窗相连又彼此相隔，风雨云雾，在光线的透射下尽收眼底，却又在玻璃的隔离下止步禁区。
 
-CSS Grid Layout has been a game-changer in web design, allowing developers to create complex layouts with ease. It provides a two-dimensional grid system, enabling precise control over both rows and columns. This feature is especially valuable for responsive design, as it facilitates the creation of flexible and dynamic page structures.
+走着，走着，直见《天空之城》纪念赏，但五月三十日也才看过重制版首映，便不多做停留。书店中码放着流滥于网络的读物与各型各色的儿童玩具，径直穿过有限的阅读区，在看门人一番极具口音特色的指点下走过廊道与游戏厅，上了阶梯。
 
-```css
-.container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 20px;
-}
-```
+![IMG_20230602_184641](https://7391343.webp.li/inmemories/uPic/2025/02/16/IMG_20230602_184641)
 
-## 2. **Custom Properties (CSS Variables)**
+六楼的廊道，连贯、明澈而又洁净。不同于餐饮门店聚集的五楼，只剩少数作业工人与辅导机构，平添几分门前冷落，几分无人问津，几分冷色调的清静。藤蔓延展、遮蔽，勿扰式地封闭禁地，在浮掠的云层之下，蓝绿色块交叠，是露台，是鸟居，是往门，无论是什么，都无关紧要，只是为这迁徙的仪式赋上禁忌的神秘色彩。六月二日，是云的迁徙日。
 
-Custom properties, or CSS variables, bring a new level of flexibility and maintainability to stylesheets. They allow you to define reusable values and apply them throughout your CSS, making it easier to update styles consistently across a project.
+趁未被发现之时，用影像匆匆窃走迁徙日的存证，封存在晶体管内。从五楼，爬上六楼，再爬下五楼——凸字形的线路，白白走的这一遭，只是因为下面的桥被楼宇隔断。从电梯门走出的那一刻，发现色块乱码的垃圾箱默默注视，几分怪异，又几分亲切。
 
-```css
-:root {
-  --primary-color: #3498db;
-}
+开台。点菜。上菜。叠放的乌鸡卷上，旭日赤黄，土地黑褐，活脱脱地成为山海经的史诗绘卷，在下锅之前，爱不释目地观赏。但浑然天成的可爱将目光悄悄挪远，半长的黑发遮挡住清纯而稚嫩的面庞，精巧的五官在顶光的勾勒下呈现出错落而立体的阴影，双唇文静地咀嚼，却也时而勾起俏皮甜美的弧度，只身一人，自如而自在。遗憾的是，终于还是淡淡忘记了那种摄人心魄，那种小心翼翼，那种情感，那种美，命运停靠于陌生的礼貌，缓缓，而后，匆匆。
 
-.button {
-  background-color: var(--primary-color);
-}
-```
+随后探讨如何将酸梅汤的玻璃杯制成具有艺术性的胶片标本——只需微微抬起，任由恰到好处的灯光在桌上刻下轮廓，几分逃逸的梅褐色光线摇晃变换，却逃不出灰黑的玻璃躯壳，在魔法般的操控下，悬于掌中，静止，流淌，又或等待一束不期而遇的光线横冲直撞，犯下丁达尔效应的罪行。
 
-## 3. **Dark Mode Styling**
+结账。摸索着出了门，在空旷的商场中，继续转转悠悠。犬牙交错的灯光潜藏在屋顶式的架构中，黑鸡小馆用原木排列出农舍的质朴，九龙堂在灯光点阵的招牌下还原出繁华而极具年代感的香港，辽宁小吃大排档的红绿配色别具一格，闪烁出北方街边夜市小吃的光阴。莆田餐厅的樱花与西洋陈设营造出新加坡式的氛围，花、钢丝、木条，簇拥成团，簇拥成文明的缩影。站在扶梯上，方形的穹顶在透视法则的作用下演变为不规则的四边形，阳光也随之而来地失去形状，融化在家具城的原木香气之中，温柔而安稳。
 
-With the rise of dark mode preferences among users, CSS has adapted to provide better support for this feature. The `prefers-color-scheme` media query allows developers to adjust styles based on the user's preferred color scheme.
+大饥饿者，小饥饿者，不约而同地达到餍足，狼吞虎咽的饕餮兽与贪得无厌的噬美贼，纷纷败退。
 
-```css
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #1a1a1a;
-    color: #ffffff;
-  }
-}
-```
+出发（Los geht's!）。天接云涛连晓雾，白云仍在迁徙的旅途中，成群，成片，或然鳞次细碎，漫不经心，或然排山倒海，不可阻挡。不因循红绿灯的交通规则，也不畏惧监控探头的捕获，神秘得蹑手蹑脚，却又自然得肆无忌惮，有时清晰地界限分明，却又有时模糊成飞瀑湍流。或许拉普达（Laputa）的自然花园位居云上，又或许是晴女的鱼池龙渊，又或许，一无所有。
 
-### 4. **Scroll Snap for Smooth Navigation**
+多出几公里，路线不再熟悉，搭乘的公交车也坐错了方向，南辕北辙，平白无故又多出几公里。四下张望，云被挡在窗外，广告屏幕里是索然无味的陈词滥调，视线诚实地停留在玛丽珍皮鞋与黑色短袜之上，在欲望的唆使下，蠢蠢欲动的目光窃走不期而遇的流线之美，蹑手蹑脚，无声无息。胆大包天到无地自容，肆意妄为却忐忑不安，是缪斯霍乱理智的美学病态，也是普里阿普斯囚禁基因之中的野兽罪行。
 
-Scroll Snap enhances the user experience by providing a smooth scrolling effect. It allows you to define specific points within a container to which the scroll should snap, creating a more polished and user-friendly interface.
+后知后觉地，下车。竟不敢相信，眼前的与刚才的，是同一座城市，同一个北京。但确乎是北京，没有任何理由不是北京，只是相较于海淀区拥挤的有序、远大路空旷的冷清，眼前的北京更为熙熙攘攘，与其它城市别无二致的拥挤与杂乱，更真实，也更为生活化，这样的地区据说是在每个城市都有的。云彩还在迁徙，只是没那么碧蓝，没那么光亮，或许只是要下雨了，又或许只是阳光偏移了、转动了。但总归，是同一片天空下的，同一个北京。
 
-```css
-.container {
-  scroll-snap-type: y mandatory;
-}
+![IMG_20230602_193610](https://7391343.webp.li/inmemories/uPic/2025/02/16/IMG_20230602_193610)
 
-.section {
-  scroll-snap-align: start;
-}
-```
+回程，真正意义上的回程。红灯与绿灯的交替值守，哈喽和美团的蓝黄色调，构成不息的潮水，不息的生活，不息的城市。海淀进修实验学校的中学生们穿着标志性的校服，令人感慨岁月的新旧交替，又或是命运的单调重复，人都在驶向光明的前程，驶向已知，却也驶向未知，驶向迷茫的不知所措。旁边的阿姨将硕大的行李包裹安放在对面无人的座位，公交车驶过的背面是围绕萝卜青菜的讨价还价与买定离手，绿色的纱网为新婚的楼盘盖上面纱，阳光在扶手的焊接处融化，断断续续地随高低变化而上下流淌。气象万千的世界，只剩下了芸芸众生。那些在公交站台等待的人，他们的目光是公交车驶来的方向吗？而那些骑在摩托车上奔波的人，他们的目光，又紧紧锁定在公交车驶向的，道路的前方吗？我不得而知。
 
-### 5. **Responsive Typography with Clamp()**
+建筑物的尖顶穿过云雾，阻隔迁徙的进程——定然是北京了，只是更为熟悉的北京。下午，连同被风掀起的长发遮住的背影，或许是噬美贼间歇性的蠢蠢欲动，消失殆尽，成为纸面上的故事段落，可触碰，却无法触及。闷头扎进寝室的方寸天地，无论是于心不忍，还是怦然心动，都停息了，趁着流淌的墨还未干燥，记录。
 
-The `clamp()` function is a powerful addition for achieving responsive typography. It allows you to set a font size that is responsive within a specified range, ensuring readability across various screen sizes.
+古朴齐整的小楼之上，云朵也在这里迁徙，只是不知道起点，也不知道终点。
 
-```css
-h1 {
-  font-size: clamp(2rem, 5vw, 4rem);
-}
-```
+北京！北京……
 
-## Conclusion
-
-As web development continues to evolve, staying informed about the latest CSS features is essential for creating modern and user-friendly interfaces. These features empower developers to build more responsive, visually appealing, and accessible websites. Incorporating these tools into your workflow will not only enhance your development process but also contribute to a richer and more engaging web for users around the globe. Happy coding!
+二零贰叁年六月二日

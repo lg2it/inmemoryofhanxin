@@ -64,6 +64,10 @@ const siteConfig: SiteConfig = {
     ],
     footerNavLinks: [
         {
+            text: 'Commemoration',
+            href: '/commemoration'
+        },
+        {
             text: 'About',
             href: '/about'
         },

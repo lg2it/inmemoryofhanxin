@@ -15,3 +15,5 @@ L,.G.: 当晗昕的父亲克制着撕心的痛楚，告诉我噩耗时，难以�
 ## 纪念文章
 
 L,.G.: [《悼友文》](https://justgoidea.com/posts/2025-002/)
+
+陈仓颉：[《世事无常》](https://imzm.im/rest-in-peace/)
